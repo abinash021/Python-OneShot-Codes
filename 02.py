@@ -11,7 +11,7 @@ age=20
 print(name)
 print(age)
 
-#Joining two variables together
+#Joining two variables together // Concatenation
 First_name="Abinash"
 Last_name="Patra"
 print(First_name+Last_name)
